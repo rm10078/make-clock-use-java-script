@@ -1,0 +1,136 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}#diva{
+    background-color: gray;
+    border-style: solid;
+    border-color: black;
+    border-radius: 20px;
+    width: 50%;
+    height: 150px;
+    margin-top: 2%;
+    margin-left: 25%;
+}
+#date{
+    background-color: rgb(121, 67, 67);
+    border-style: solid;
+    border-color: black;
+    border-radius: 20px;
+    width: 50%;
+    height: 150px;
+    margin-top: 2%;
+    margin-left: 25%;
+    float: top;
+}
+#m1{
+    width: 30%;
+    height: 80%;
+    background-color: rgb(233, 62, 133);
+    border-color: rgb(253, 251, 251);
+    border-width: 5px;
+    border-radius: 50%;
+    border-style: solid;
+    margin: 5px;
+    float: left;
+    text-align: center;
+    
+}
+#h1{
+    width: 30%;
+    height: 80%;
+    background-color: rgb(60, 235, 113);
+    border-color: rgb(250, 248, 248);
+    border-width: 5px;
+    border-radius: 50%;
+    border-style: solid;
+    margin: 5px;
+    float: left;
+    text-align: center;
+    
+}
+#s1{
+    width: 30%;
+    height: 80%;
+    background-color: rgb(57, 166, 230);
+    border-color: rgb(255, 255, 255);
+    border-width: 5px;
+    border-radius: 50%;
+    border-style: solid;
+    margin: 5px; 
+    
+    float: left; 
+    text-align: center;
+    
+}
+#text{
+    text-align: center;
+}
+#h{
+padding-top: 12px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 70px;
+}
+#m{
+  padding-top: 12px; 
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 70px;
+}
+#s{
+  padding-top: 12px; 
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 70px;
+}
+#h2{
+background-color: aqua;
+ width: 30%;
+    height: 80%;
+    float: left;
+    margin: 5px;
+    border-radius: 20px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: aliceblue;
+    margin-left: 10px;
+    margin-top: 8px ;
+}
+#m2{
+ background-color:#f89e2f; 
+  width: 30%;
+    height: 80%;
+    float: left;
+    margin: 5px;
+    border-radius: 20px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: aliceblue;
+    margin-left: 5px;
+    margin-top: 8px ;  
+}
+#s2{
+ background-color:#e54aef; 
+  width: 30%;
+    height: 80%;
+    float: left;
+    margin: 5px;
+    border-radius: 20px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: aliceblue;
+    margin-left: 5px;
+    margin-top: 8px ;  
+}
+#da{
+    padding-top: 12px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 70px;    
+}
+#ma{
+    padding-top: 12px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 70px;    
+}
+#sa{
+    padding-top: 12px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 70px;   
+}
